@@ -12,7 +12,7 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     actions:
-      - label: lorem-ipsum
+      - label: hello there
         url: '#'
         style: link
         icon: dribbble
