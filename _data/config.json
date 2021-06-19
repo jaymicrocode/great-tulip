@@ -70,5 +70,6 @@
             }
         ]
     },
-    "domain": "https://great-tulip-d53ba.netlify.app"
+    "domain": "https://great-tulip-d53ba.netlify.app",
+    "favicon": "images/1500x500.jpeg"
 }
